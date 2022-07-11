@@ -1,0 +1,41 @@
+body{
+    max-width: 1400px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+body main{
+    width: 400px;
+}
+body main section h2{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+body main section ul li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+#cabecalho__lista{
+    color: white;
+    background-color: rgb(44, 43, 43);
+    height: 30px;
+    align-items: center;
+    border-radius: 5px;
+    
+}
+
+
+
+
+body main section button{
+    width: 100%;
+    height: 30px;
+    color: white;
+    background-color: rgb(18, 223, 223);
+    border-color: rgb(18, 223, 223);
+    border-radius: 5px;
+    cursor: pointer;
+}
